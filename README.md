@@ -1,6 +1,5 @@
 ## ✅ `README.md` for `socket_server`
 
-````markdown
 # 🔌 Socket Server Suite – Multi-Function Network Toolset
 
 A modular and powerful collection of socket-based tools for remote communication, system access, and phishing simulation. This project includes multiple socket client-server implementations for use in ethical hacking demonstrations, cybersecurity learning, and network programming practice.
