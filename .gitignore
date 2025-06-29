@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode settings (if you use it)
+.vscode/
+
+# PyCharm settings (if you use it)
+.idea/
+
+# Logs and debug info
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/
+.cache/
+
+# Coverage and reports
+htmlcov/
+.coverage
+coverage.xml
+
+# Compiled C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
